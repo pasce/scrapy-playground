@@ -19,9 +19,9 @@ Playground for [scrapy](https://github.com/scrapy/scrapy) (scraping and web craw
 <summary>Using pip</summary>
 <p>You can also use pip to install scrapy, twisted, lxml and pyOpenSSL 
 </p>
-```
+
 pip3 install Twisted==14.0 lxml pyOpenSSL Scrapy
-```  
+
 </details>
 
 ## Conda Environment
