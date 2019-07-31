@@ -12,7 +12,8 @@ Playground for [scrapy](https://github.com/scrapy/scrapy) (scraping and web craw
 ## Installation
 <details>
 <summary>Using conda</summary>
-<p>You can use conda with the provided environment which is the preferred way.</p>
+<p>All packages can be installed via conda/ANACONDA NAVIGATOR through conda-forge.</p>
+You can also use conda with the provided [environment](conda-environment/conda-env.yml "conda environment for scrapy-playground") which is the preferred way.
 </details>
 
 <details>
@@ -26,3 +27,4 @@ pip3 install Twisted==14.0 lxml pyOpenSSL Scrapy
 
 ## Conda Environment
 Use this [conda environment](conda-environment/conda-env.yml "conda environment for scrapy-playground") for easy installation and testing.
+
