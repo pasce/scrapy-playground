@@ -10,19 +10,17 @@ Playground for [scrapy](https://github.com/scrapy/scrapy) (scraping and web craw
 * pyOpenSSL 19.0.0
 
 ## Installation
-<details>
-<summary>Using conda</summary>
-<p>All packages can be installed via conda/ANACONDA NAVIGATOR through conda-forge.</p>
+__Using conda__
+
+All packages can be installed via conda/ANACONDA NAVIGATOR through conda-forge.
 You can also use conda with the provided [environment](conda-environment/conda-env.yml "conda environment for scrapy-playground") which is the preferred way.
-</details>
 
-<details>
-<summary>Using pip</summary>
-<p>You can also use pip to install scrapy, twisted, lxml and pyOpenSSL 
-</p>
+__Using pip__
 
+You can also use pip to install scrapy, twisted, lxml and pyOpenSSL 
+```
 pip3 install Twisted==14.0 lxml pyOpenSSL Scrapy
-
+```
 </details>
 
 ## Conda Environment
